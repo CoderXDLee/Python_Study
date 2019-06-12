@@ -14,7 +14,7 @@
 
 ## Python 体验
 
-![](/assets/import.png)
+![](/assets/Python体验01.png)
 
 ```py
 1.01 ^ 3 * 0.99 ^ 2 < 1.01
@@ -22,5 +22,5 @@
 三天打鱼，两天晒网，终将一事无成。
 ```
 
-![](/assets/Snip20190611_2.png)
+![](/assets/Python体验02.png)
 
