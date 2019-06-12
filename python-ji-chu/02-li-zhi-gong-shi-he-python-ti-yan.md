@@ -1,6 +1,8 @@
+# 02-励志公式和Python体验
+
 ## 分享
 
-```py
+```python
 1.01 ^ 365 = 37.8
 0.99 ^ 365 = 0.03
 
@@ -14,13 +16,13 @@
 
 ## Python 体验
 
-![](/assets/Python体验01.png)
+![](../.gitbook/assets/python-ti-yan-01.png)
 
-```py
+```python
 1.01 ^ 3 * 0.99 ^ 2 < 1.01
 
 三天打鱼，两天晒网，终将一事无成。
 ```
 
-![](/assets/Python体验02.png)
+![](../.gitbook/assets/python-ti-yan-02.png)
 
